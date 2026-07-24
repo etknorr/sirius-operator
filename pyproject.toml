@@ -9,7 +9,7 @@ description = "Kubernetes operator for sirius benchmark runs"
 readme = "README.md"
 requires-python = ">=3.13"
 license = { text = "MIT" }
-authors = [{ name = "ia-eknorr" }]
+authors = [{ name = "etknorr" }]
 dependencies = [
     "kopf>=1.37",
     "kubernetes-asyncio>=29",
